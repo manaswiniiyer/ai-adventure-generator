@@ -3,6 +3,79 @@ GPT-5.6 powers the core gameplay by acting as an AI Game Master. It dynamically 
 Codex was used throughout development as an AI software engineering assistant. It accelerated React component development, Express backend implementation, API integration, prompt engineering, game logic, debugging, refactoring, and UI development, enabling rapid iteration and feature implementation during the hackathon.
 
 
+## 🚀 Running WanderQuest AI Locally
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v18 or later recommended)
+- npm (comes with Node.js)
+
+---
+
+### Installation
+
+1. Open **PowerShell** (or Terminal) in the project folder.
+
+2. Navigate to the project directory:
+
+```bash
+cd "C:\Users\MANASWINI R IYER\OneDrive\Documents\DEVPOST"
+```
+
+3. Install the required dependencies (only needed the first time):
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+### Open the Application
+
+After running the command, Vite will display a local development URL similar to:
+
+```text
+http://localhost:5173
+```
+
+Open this URL in your web browser to launch **WanderQuest AI**.
+
+---
+
+### Stopping the Application
+
+Keep the PowerShell window open while using the application.
+
+To stop the development server, press:
+
+```text
+Ctrl + C
+```
+
+---
+
+### Troubleshooting
+
+If you encounter missing dependency errors, run:
+
+```bash
+npm install
+```
+
+and then restart the development server with:
+
+```bash
+npm run dev
+```
+
 
 
 
