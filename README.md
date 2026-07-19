@@ -21,7 +21,7 @@ Make sure you have the following installed:
 2. Navigate to the project directory:
 
 ```bash
-cd "C:\Users\MANASWINI R IYER\OneDrive\Documents\DEVPOST"
+cd "C:
 ```
 
 3. Install the required dependencies (only needed the first time):
